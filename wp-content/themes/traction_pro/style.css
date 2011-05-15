@@ -1,0 +1,35 @@
+/*
+Theme Name: Traction PRO Child Theme
+Theme URI: http://thethemefoundry.com/traction/
+Description: PRO child theme for Traction.
+Version: 1.0
+Author: The Theme Foundry
+Author URI: http://thethemefoundry.com/
+Template: traction
+*/
+
+/* Import Stylesheets, don't remove these.
+-----------------------------------------------------------*/
+@import url("../traction/stylesheets/master.css");
+
+/* Required WordPress Classes, don't remove these.
+-----------------------------------------------------------*/
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.alignleft { float: left; }
+.alignright { float: right; }
+
+/* Logo
+-----------------------------------------------------------*/
+div.logo.logo-img { line-height: 0; }
+
+/* Make all custom CSS changes BELOW this line
+-----------------------------------------------------------*/
+/* Example: Change the sidebar background to blue:
+#sidebar {
+	background: blue;
+}
+*/

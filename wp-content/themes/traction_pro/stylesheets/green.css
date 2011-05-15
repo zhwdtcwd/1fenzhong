@@ -1,0 +1,25 @@
+/*Green
+------------------------------------------------------------ */
+body.green a:link, body.green a:visited  { color: #3f7433; }
+body.green a:hover { color: #264e1d; }
+body.green #main-top { background-image: url(../images/colors/green/main-top.png); }
+body.green #main { background: #eee9e9 url(../images/colors/green/main-body.png) repeat-y center top; }
+body.green #main-bottom { background-image: url(../images/colors/green/main-bottom.png); }
+body.green .nav ul { background-image: url(../images/colors/green/nav-bottom.png); }
+body.green .nav li li { background: #2e7027; }
+body.green .nav li li:hover, body.green .nav li li.sfhover, body.green .nav li li.current_page_parent, body.green .nav li li.current_page_ancestor, body.green .nav li li.current-cat-parent, body.green .nav li li.current-cat, body.green .nav li li.current_page_item { background: #265c20; }
+body.green div#feature { background-image: url(../images/colors/green/feature-body.png); }
+body.green div.feature-top { background-image: url(../images/colors/green/feature-top.png); }
+body.green div.feature-bottom { background-image: url(../images/colors/green/feature-bottom.png); }
+body.green div#cat-nav { background-image: url(../images/colors/green/nav.png); }
+body.green div.feature-sidebar h2 { background-image: url(../images/colors/green/feature-h2-bg.png); }
+/*Reset
+------------------------------------------------------------ */
+body.green .nav a { color: #eeecec; }
+body.green .entry h2 a:link, body.green .entry h2 a:visited { color: #444; }
+body.green .entry h2 a:hover { color: #3f7433; }
+body.green div.single-comments a { color: #000; }
+body.green .tags a, body.green .cats a { color: #444; }
+body.green .cats a:hover, body.green .tags a:hover { color: #3f7433; }
+body.green p.comments-rss a { color: #444; }
+body.green p.comments-rss a:hover { color: #3f7433; }

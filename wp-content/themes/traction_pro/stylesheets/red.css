@@ -1,0 +1,25 @@
+/*Red
+------------------------------------------------------------ */
+body.red a:link, body.red a:visited  { color: #993333; }
+body.red a:hover { color: #662222; }
+body.red #main-top { background-image: url(../images/colors/red/main-top.png); }
+body.red #main { background: #eee9e9 url(../images/colors/red/main-body.png) repeat-y center top; }
+body.red #main-bottom { background-image: url(../images/colors/red/main-bottom.png); }
+body.red .nav ul { background-image: url(../images/colors/red/nav-bottom.png); }
+body.red .nav li li { background: #79201e; }
+body.red .nav li li:hover, body.red .nav li li.sfhover, body.red .nav li li.current_page_parent, body.red .nav li li.current_page_ancestor, body.red .nav li li.current-cat-parent, body.red .nav li li.current-cat, body.red .nav li li.current_page_item { background: #6c1c1a; }
+body.red div#feature { background-image: url(../images/colors/red/feature-body.png); }
+body.red div.feature-top { background-image: url(../images/colors/red/feature-top.png); }
+body.red div.feature-bottom { background-image: url(../images/colors/red/feature-bottom.png); }
+body.red div#cat-nav { background-image: url(../images/colors/red/nav.png); }
+body.red div.feature-sidebar h2 { background-image: url(../images/colors/red/feature-h2-bg.png); }
+/*Reset
+------------------------------------------------------------ */
+body.red .nav a { color: #eeecec; }
+body.red .entry h2 a:link, body.red .entry h2 a:visited { color: #444; }
+body.red .entry h2 a:hover { color: #993333; }
+body.red div.single-comments a { color: #000; }
+body.red .tags a, body.red .cats a { color: #444; }
+body.red .cats a:hover, body.red .tags a:hover { color: #993333; }
+body.red p.comments-rss a { color: #444; }
+body.red p.comments-rss a:hover { color: #993333; }
